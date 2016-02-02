@@ -1,5 +1,6 @@
 #### Scala代码覆盖率
-1. Maven与Sonar结合出Scala代码覆盖率
+
+Maven与Sonar结合出Scala代码覆盖率
 
 #### Maven集成Sonar
 修改maven的主配置文件（${MAVEN_HOME}/conf/settings.xml文件或者 ~/.m2/settings.xml文件），在其中增加访问Sonar数据库及Sonar服务地址，添加如下配置：
