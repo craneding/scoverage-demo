@@ -48,7 +48,9 @@ mvn clean scoverage:report sonar:sonar
 #### 相关资料
 
 > http://scoverage.github.io/scoverage-maven-plugin/1.1.1/plugin-info.html
+>
 > https://github.com/RadoBuransky/sonar-scoverage-plugin
+>
 > https://github.com/scoverage/scoverage-maven-plugin
 
 #### 帮助
